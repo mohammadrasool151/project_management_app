@@ -1,0 +1,85 @@
+.tHeading{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: rgb(127, 141, 141); */
+    font-size: 50px;
+    /* padding-right: 2vw; */
+    width: 45vw;
+    padding-bottom: 6px;
+    /* visibility: hidden; */
+    position: relative;
+      /* top: 10px; */
+      height: 8vh;
+    /* margin: auto; */
+    /* text-align: center; */
+}
+.tHeadingP{
+    /* height: 8vh; */
+    /* text-align: center; */
+    /* background-color: chartreuse; */
+    width: 30vw;
+}
+.tHeadingI{
+    display: flex;
+    justify-content: space-around;
+    width: 15vw;
+    /* background-color: blueviolet; */
+}
+
+.fle{
+    /* background-color: aqua; */
+
+    /* position: relative; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.tProject{
+    font-size: 40px;
+    /* padding-right: 170px; */
+    /* padding-left: 140px; */
+}
+.tPlus{
+    margin-top: auto;
+    margin-bottom: auto;
+    /* padding-left: 20px; */
+    /* padding-top: 20px; */
+    color: brown;
+}
+.tdivinput{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: rgb(127, 141, 141); */
+    font-size: 50px;
+    /* background-color: rgb(127, 141, 141); */
+   /* padding-right: 2vw; */
+    width: 45vw;
+    /* padding-bottom: 6px; */
+    position: relative;
+    top: 10px;
+    /* visibility: hidden; */
+    /* height: 8vh; */
+
+
+}
+.tInput{
+    color: white;
+    text-align: center;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    height: 8vh;
+    border: none;
+    text-decoration: none;
+
+    width: 30vw;
+    font-size: 40px;
+    /* background-color: rgb(16, 222, 222); */
+
+}
+.tcheckdone{
+    width: 20px;
+}

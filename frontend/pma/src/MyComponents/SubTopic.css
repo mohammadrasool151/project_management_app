@@ -1,0 +1,78 @@
+.stbothupdw {
+    /* background-color: rgb(126, 126, 126); */
+    
+    width: 30vw;
+    /* padding-bottom: 10px; */
+    /* margin-bottom: 10px; */
+}
+.sbmapall{
+    display: flex;
+    flex-direction: column;
+}
+
+.stHeading {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(62, 62, 62, 0.5);
+    /* background-color: rgb(236, 109, 109); */
+    /* font-size: 50px; */
+    /* padding-right: 2vw; */
+    width: 30vw;
+    /* border-bottom: 1px rgb(161, 161, 161) solid; */
+    height: 8vh;
+    /* margin: auto; */
+    /* text-align: center; */
+}
+
+.stHeadingP {
+    /* text-align: center; */
+    width: 20vw;
+    /* background-color: rgb(78, 79, 147); */
+}
+
+.stHeadingI {
+    width: 10vw;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.stProject {
+    /* background-color: aqua; */
+    font-size: 35px;
+    padding-top: 4px;
+    /* margin: auto; */
+    /* margin-top: auto;
+    margin-bottom: auto; */
+}
+
+.stPlus {
+    font-size: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    /* flex-direction: column; */
+    /* padding-left: 20px; */
+    /* padding-top: 20px; */
+    color: brown;
+}
+
+.stInput {
+    color: aliceblue;
+    text-align: center;
+    width: 20vw;
+    height: 8vh;
+    font-size: 35px;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* width: 20vw; */
+    /* background-color: rgb(78, 79, 147); */
+    border: none;
+
+    /* text-decoration: none; */
+}
+.forstspacing{
+    margin-bottom: 30px;
+}

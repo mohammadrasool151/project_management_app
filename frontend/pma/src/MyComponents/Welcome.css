@@ -1,0 +1,26 @@
+.wcenter{
+padding-top: 150px;
+text-align: center;
+color: rgb(2, 95, 64);
+font-size: 25px;
+}
+.heading{
+color: brown;
+font-size: 70px;
+}
+.navlink{
+    /* margin: auto; */
+    text-decoration: none;
+    font-size: 50px;
+    margin-top: 400px;
+    
+    /* background-color: tomato; */
+}
+.wcenter2{
+    /* margin: auto; */
+    padding-top: 150px;
+    /* text-align: center; */
+    /* color: rgb(2, 95, 64); */
+    /* font-size: 25px; */
+    background-color: rgb(13, 233, 160);
+    }

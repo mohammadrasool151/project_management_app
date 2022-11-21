@@ -1,0 +1,81 @@
+.nibothupdw {
+    /* background-color: rgb(126, 126, 126); */
+    
+    width: 30vw;
+    /* padding-bottom: 10px; */
+    /* margin-bottom: 10px; */
+}
+
+.niHeading {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* opacity: 0.5;  */
+    /* font-size: 50px; */
+    /* padding-right: 2vw; */
+    width: 15vw;
+    /* border-bottom: 1px rgb(161, 161, 161) solid; */
+    height: auto;
+    /* margin: auto; */
+    /* text-align: center; */
+}
+
+.niHeadingP {
+    /* opacity: 0.;  */
+    /* text-align: center; */
+    width: 11vw;
+    /* background-color: rgb(167, 59, 134); */
+}
+
+.niHeadingI {
+    margin: auto;
+    width: 4vw;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: space-around;
+
+}
+/* .niHeading p{
+    
+} */
+
+.niProject {
+    /* background-color: aliceblue; */
+    /* background-color: aqua; */
+    font-size: 17px;
+    /* padding-top: 4px; */
+    /* margin: auto; */
+    height: auto;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+}
+
+.niPlus {
+    /* font-size: 16px;
+    margin-top: auto;
+    margin-bottom: auto; */
+
+    /* flex-direction: column; */
+    /* padding-left: 20px; */
+    /* padding-top: 20px; */
+    color: brown;
+}
+
+.niInput {
+    color: white;
+    text-align: center;
+    width: 11vw;
+    height: auto;
+    font-size: 17px;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* width: 20vw; */
+    /* background-color: rgb(78, 79, 147); */
+    border: none;
+
+    /* text-decoration: none; */
+}
+.fornispacing{
+    margin-bottom: 5px;
+}
